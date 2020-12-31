@@ -1,0 +1,12 @@
+---
+title: nancy is awesome
+author: ''
+date: '2020-12-31'
+slug: nancy-is-awesome
+categories:
+  - R
+tags:
+  - R Markdown
+---
+
+# I like NARN a whole lot.
