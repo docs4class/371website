@@ -1,7 +1,9 @@
 ---
-title: "still testing"
+title: "Untitled"
 output: html_document
 ---
+
+The source code for everything you see here can be found [on GitHub](https://github.com/docs4class/badm371).
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
