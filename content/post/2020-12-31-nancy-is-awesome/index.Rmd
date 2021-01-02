@@ -10,3 +10,5 @@ tags:
 ---
 
 # I like NARN a whole lot.
+
+![](/2020-12-31-nancy-is-awesome/index_files/favicon.ico)
